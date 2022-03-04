@@ -1,6 +1,6 @@
 # Instructions
 1. Install [Processing](https://processing.org/download) on your computer.
-2. Download this folder and save it to Documents --> Processing (or anywhere else that you can remember).
+2. Download this folder (you'll have to back out to the  `ri-dramafeste-2022` folder, click on the Code dropdown and download the .zip file) and save it to Documents --> Processing (or anywhere else that you can remember).
 3. If this is your first time using the project, go to Sketch --> Import Library --> Add Library and install the `Video | GStreamer-based video library for Processing` library.
 4. Connect the receiver micro:bit to the computer *BEFORE* running the code (select the play button) on the top left.
 > The micro:bit should already have code that writes the line "A" to serial when the video is to be played.
